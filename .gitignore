@@ -1,0 +1,20 @@
+
+# Ignore CSV data files
+*.csv
+
+# Ignore API key or config files
+*.env
+*.ini
+*.json
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode and other IDE settings
+.vscode/
+.idea/
